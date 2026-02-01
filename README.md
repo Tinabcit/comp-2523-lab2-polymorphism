@@ -16,6 +16,7 @@ The following output matches the required results for the lab:
 [-15, 0, 3, 30]
 -----------------------
 aebXy
+----------------------
 -20
 4
 500
